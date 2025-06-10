@@ -13,9 +13,7 @@
 
   <h1 align="center">SaaS App - Learning Management System</h1>
 
-  <p align="center">
-    Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-  </p>
+
 </div>
 
 ## 📋 Table of Contents
@@ -27,27 +25,11 @@
 5. [Assets](#assets) 🔗
 6. [More](#more) 🚀
 
-## 🚨 Tutorial
-
-This repository contains the code for an in-depth tutorial available on the [JavaScript Mastery YouTube channel](https://www.youtube.com/@javascriptmastery/videos). If you prefer visual learning, this tutorial is perfect for you! Follow along to build this project step-by-step in a beginner-friendly manner.
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank">
-    <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" alt="Tutorial Thumbnail" width="400">
-  </a>
-</div>
 
 ## 🤖 Introduction <a name="introduction"></a>
 
 This project is a Learning Management System (LMS) SaaS application built from scratch using Next.js, Supabase, and Stripe. It features user authentication, subscription management, payment integration, and real-time teaching sessions with AI voice agents powered by Vapi. The app provides an interactive platform for users to create and engage with AI tutors, manage their learning journey, and access previous sessions and bookmarks.
 
-Need help or encounter bugs? Join our [Discord community](https://discord.com/invite/n6EdbFJ) with over 50,000 members, where you can get support and connect with others.
-
-<div align="center">
-  <a href="https://discord.com/invite/n6EdbFJ" target="_blank">
-    <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" alt="Discord Banner" width="400">
-  </a>
-</div>
 
 ## ⚙️ Tech Stack <a name="tech-stack"></a>
 
@@ -91,7 +73,7 @@ Ensure you have the following installed:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/adrianhajdin/saas-app.git
+git clone https://github.com/MohdAli056/saas-app
 cd saas-app
 ```
 
@@ -142,28 +124,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-## 🔗 Assets <a name="assets"></a>
+## 🚨 Tutorial
 
-Assets and snippets used in this project are available in the [Video Kit](https://jsm.dev/converso-kit).
-
-<div align="center">
-  <a href="https://jsm.dev/converso-kit" target="_blank">
-    <img src="public/readme/videokit.jpg" alt="Video Kit Banner" width="400">
-  </a>
-</div>
-
-## 🚀 More <a name="more"></a>
-
-### Advance Your Skills with the Next.js Pro Course
-
-Enjoyed this project? Take your skills to the next level with our [Next.js Pro Course](https://jsm.dev/converso-nextjs). It’s packed with detailed explanations, advanced features, and hands-on exercises to boost your expertise.
-
-<div align="center">
-  <a href="https://jsm.dev/converso-nextjs" target="_blank">
-    <img src="public/readme/jsmpro.jpg" alt="Next.js Pro Course Banner" width="400">
-  </a>
-</div>
-
----
-
-This `README.md` is now professionally structured with clear sections, polished language, and proper formatting for GitHub. It includes the bookmark feature as part of the project’s functionality, reflecting the work we did together. Let me know if you’d like to make any further adjustments!
+This repository contains the code for an in-depth tutorial available on the [JavaScript Mastery YouTube channel](https://www.youtube.com/@javascriptmastery/videos). If you prefer visual learning, this tutorial is perfect for you! Follow along to build this project step-by-step in a beginner-friendly manner.

@@ -73,8 +73,8 @@ Ensure you have the following installed:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/MohdAli056/saas-app
-cd saas-app
+git clone https://github.com/MohdAli056/saas-app.git
+cd jsm-saas-app
 ```
 
 ### Installation
